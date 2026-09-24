@@ -1,4 +1,4 @@
-# Hi 👋! My name is myasr and I'm a from tel aviv
+# Hi 👋! My name is ... and I'm a ..., from ....
 
 <!-- الإحصائيات ورسوم البيانات -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myasrkhawaja-source&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,9 +18,12 @@
 <br/>
 
 <!-- روابط وسائل التواصل الاجتماعي -->
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act))](myasr.khawaja@gmail.com)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myasr-khawaja-945633422/)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 <br/>
 
